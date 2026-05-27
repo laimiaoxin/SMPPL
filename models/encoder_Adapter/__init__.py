@@ -1,0 +1,1 @@
+from .ViTAdapter import ImageEncoderViTAdapter
